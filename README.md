@@ -8,17 +8,14 @@ Chaos Stabilization through Dubosson-Feynman Dynamics
 DFE-Pilot (Dubosson-Feynman Engine) is a biological-inspired controller designed to extract stability from highly stochastic environments. Unlike traditional PID or AI controllers, DFE-Pilot utilizes a Life Equation derived from quantum field fluctuations and CP-violation constants (LHCb 2025) to maintain structural order (negentropy) in real-time.
 The core algorithm bridges the gap between Path Integral formulation (Feynman) and Membrane Dynamics (Dubosson), creating a self-correcting homeostatic loop capable of absorbing "Black Swan" events.
 🧬 The Life Equation
-The engine operates on a master equation extracted through symbolic regression of 5,000,000 generations of artificial life:
+The engine operates on a master equation extracted through symbolic regression of 5,000,000 generations of artificial life.
+The Master Life Equation:
+F = 10.0723 - 1.58Φ - 12.45m + 0.113*V
+F (Fitness): Overall system coherence.
+Φ (Phi - Feynman Field): External stochastic noise.
+m (Metabolism): Energy consumption and wear.
+V (Dubosson Potential): Structural resilience.
 
-Where:
-
- (Feynman Field): External stochastic pressure/noise.
-
- (Metabolism): Internal energy consumption and wear.
-
- (Dubosson Potential): Structural membrane tension and resilience.
-
- (Fitness): Overall system coherence and survival probability.
 🚀 Key Features
 Darwinian Filter: Automatically rejects harmful mutations in the control logic.
 Entropy Corrector: Detects drift in system fitness and injects corrective "Dubosson Boosts" to maintain homeostasis.
